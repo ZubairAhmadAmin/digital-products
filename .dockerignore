@@ -1,0 +1,6 @@
+.venv/
+
+External Libraries/
+
+media/
+db.sqlite3
